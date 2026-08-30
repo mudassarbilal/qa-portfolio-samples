@@ -1,9 +1,10 @@
 # LQA End Report — Sample (Sanitized)
 
-> **Note:** This is a fictional sample created to demonstrate reporting structure and QA methodology. No real client, product, or tester data is included.
+> **Note:** This is a fictional sample created to demonstrate reporting structure and QA methodology.
+> No real client, product, or tester data is included.
 
-**Project:** [PROD] Rewards Feature — LQA Naturalization & Content Accuracy
-**Run:** Sample Run #01 — French (FR-FR)
+**Project:** [PROD] Rewards Feature - LQA Naturalization & Content Accuracy
+**Run:** Sample Run #01 - French (FR-FR)
 **Testers:** 4
 **Date:** Sample Date
 
@@ -33,7 +34,7 @@ Overall localization quality was **strong**, with 3 of 4 testers passing at 90%+
 | Tester A | 24 | 2 | 95.8% | ✅ Pass |
 | Tester B | 24 | 3 | 91.7% | ✅ Pass |
 | Tester C | 24 | 5 | 87.5% | ⚠️ Pass w/ notes |
-| Tester D | — | — | — | ❌ Excluded (access issue) |
+| Tester D | - | - | - | ❌ Excluded (access issue) |
 
 **Average pass rate (excluding excluded run):** 91.7%
 
@@ -42,7 +43,7 @@ Overall localization quality was **strong**, with 3 of 4 testers passing at 90%+
 ## Recommendations
 
 1. Adjust button/label containers to accommodate longer French strings (French text typically runs 15–20% longer than English source).
-2. Standardize formality register across all notification copy — recommend "vous" for consistency with existing in-app tone.
+2. Standardize formality register across all notification copy,  recommend "vous" for consistency with existing in-app tone.
 3. Localize the currency/decimal separator on the flagged screen.
 4. Fix the untranslated placeholder string on the error state before next release.
 
