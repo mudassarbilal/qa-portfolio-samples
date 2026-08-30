@@ -5,8 +5,8 @@
 **Bug ID:** BUG-0142
 **Reported By:** Sample Tester
 **Date:** Sample Date
-**Product/Feature:** Checkout Flow — Promo Code Field
-**Environment:** iOS 17.4, iPhone 13, App v3.2.1 (also reproduced on Android 14, Pixel 7)
+**Product/Feature:** Checkout Flow - Promo Code Field
+**Environment:** Apple iPhone 13, iOS 17.4, App v3.2.1 (also reproduced on Android 14, Pixel 7)
 **Severity:** Medium
 **Priority:** High
 **Status:** Open
@@ -35,8 +35,8 @@ Nothing happens — no error, no success message, and the order total remains un
 - Screenshot/screen recording: [attach here]
 
 ## Severity & Priority Justification
-**Medium severity** — does not crash the app or block checkout entirely (user can still complete purchase without discount), but directly affects revenue/promo functionality and creates a broken user experience.
-**High priority** — affects a core commerce flow and is easily reproducible; likely to affect a large share of users who mistype a code once.
+**Medium severity** - does not crash the app or block checkout entirely (user can still complete purchase without discount), but directly affects revenue/promo functionality and creates a broken user experience.
+**High priority** - affects a core commerce flow and is easily reproducible; likely to affect a large share of users who mistype a code once.
 
 ---
 
