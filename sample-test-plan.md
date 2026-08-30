@@ -2,7 +2,7 @@
 
 > Fictional example demonstrating test planning structure at a project/feature level.
 
-**Project:** Mobile Banking App — Fund Transfer Feature
+**Project:** Mobile Banking App - Fund Transfer Feature
 **Version:** v2.4.0
 **Prepared By:** Sample QA Tester
 **Date:** Sample Date
@@ -30,11 +30,11 @@ Verify that the Fund Transfer feature works correctly, securely, and consistentl
 - **Tools:** TestRail (case management), Jira (bug tracking), Postman (API-level checks), BrowserStack (device coverage)
 
 ## 4. Test Approach
-- **Functional testing** — core transfer flows, confirmation screens, receipts
-- **Negative testing** — invalid amounts, insufficient balance, expired session mid-transfer
-- **Boundary testing** — minimum/maximum transfer limits
-- **Cross-platform testing** — consistency of flow and copy across iOS/Android/Web
-- **Regression testing** — ensure existing account/balance features remain unaffected
+- **Functional testing** - core transfer flows, confirmation screens, receipts
+- **Negative testing** - invalid amounts, insufficient balance, expired session mid-transfer
+- **Boundary testing** - minimum/maximum transfer limits
+- **Cross-platform testing** - consistency of flow and copy across iOS/Android/Web
+- **Regression testing** - ensure existing account/balance features remain unaffected
 
 ## 5. Entry Criteria
 - Feature build deployed to QA environment
