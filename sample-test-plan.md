@@ -47,7 +47,7 @@ Verify that the Fund Transfer feature works correctly, securely, and consistentl
 - Medium/Low severity bugs logged and triaged with dev team sign-off
 
 ## 7. Risks & Assumptions
-- **Risk:** Sandbox environment may not fully replicate production bank integration behavior — flagged for smoke retest post-deployment.
+- **Risk:** Sandbox environment may not fully replicate production bank integration behavior, flagged for smoke retest post-deployment.
 - **Assumption:** Payment gateway sandbox is stable and available throughout the test cycle.
 
 ## 8. Deliverables
